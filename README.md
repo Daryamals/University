@@ -1,2 +1,3 @@
-# University
-Project for university
+# It is 4 days, when i make tasks for SQL
+
+Добавила эти задания для примера, чтобы было понимание проделаннных заданий.
